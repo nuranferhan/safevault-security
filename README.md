@@ -78,19 +78,6 @@ npm start
 
 4. Access the application at `http://localhost:3000`
 
-## Usage
-
-### Default Admin Account
-- Username: admin
-- Password: admin123
-
-### Available Features
-- User registration and authentication
-- Secure password storage
-- Role based access control
-- Encrypted data storage
-- Session management
-
 ## Security Features
 
 ### Input Validation
